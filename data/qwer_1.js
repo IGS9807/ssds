@@ -1,0 +1,1 @@
+var json_qwer_1 = {"type":"FeatureCollection","name":"qwer_1","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[{"type":"Feature","properties":{"id":"1","name":"9 호관"},"geometry":{"type":"Point","coordinates":[128.801894664355132,35.910377047597905]}}]}
